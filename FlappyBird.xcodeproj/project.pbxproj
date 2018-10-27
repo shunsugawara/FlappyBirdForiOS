@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE10180521845DC8004D4919 /* itemSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE10180421845DC8004D4919 /* itemSound.mp3 */; };
 		FE28F621217840C000FC27B2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE28F620217840C000FC27B2 /* AppDelegate.swift */; };
 		FE28F623217840C000FC27B2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE28F622217840C000FC27B2 /* ViewController.swift */; };
 		FE28F626217840C000FC27B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE28F624217840C000FC27B2 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FE10180421845DC8004D4919 /* itemSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = itemSound.mp3; sourceTree = "<group>"; };
 		FE28F61D217840C000FC27B2 /* FlappyBird.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlappyBird.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE28F620217840C000FC27B2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FE28F622217840C000FC27B2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				FE28F624217840C000FC27B2 /* Main.storyboard */,
 				FE28F627217840C200FC27B2 /* Assets.xcassets */,
 				FE28F629217840C200FC27B2 /* LaunchScreen.storyboard */,
+				FE10180421845DC8004D4919 /* itemSound.mp3 */,
 				FE28F62C217840C200FC27B2 /* Info.plist */,
 				FE28F650217845ED00FC27B2 /* GameScene.swift */,
 			);
@@ -128,6 +131,7 @@
 				FE28F62B217840C200FC27B2 /* LaunchScreen.storyboard in Resources */,
 				FE28F628217840C200FC27B2 /* Assets.xcassets in Resources */,
 				FE28F626217840C000FC27B2 /* Main.storyboard in Resources */,
+				FE10180521845DC8004D4919 /* itemSound.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
